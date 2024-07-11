@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './Home.css'
 import AddPng from './add.png'
-import TodoCard from '../../components/TodoCard/TodoCard'
+import TodoCard from '../../components/ToDoCard/TodoCard'
 import toast, { Toaster } from 'react-hot-toast'
 import Swal from 'sweetalert2'
 
